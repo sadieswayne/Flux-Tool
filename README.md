@@ -1,6 +1,6 @@
-# 📦 Craft AI – The All in One AI Creation Platform
+# 📦 Flux Tool – The All in One AI Creation Platform
 
-**Craft AI** is an extensible, multimodal AI platform built for crators, developers, businesses, and teams to build, generate, and automate content across text, image, audio, video, and code all from one unified workspace.
+**Flux Tool** is an extensible, multimodal AI platform built for crators, developers, businesses, and teams to build, generate, and automate content across text, image, audio, video, and code all from one unified workspace.
 
 > Create smarter. Scale faster. Automate everything.
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Features
 
-Craft AI offers a full suite of intelligent tools designed to streamline creativity, productivity, and development.
+Flux Tool offers a full suite of intelligent tools designed to streamline creativity, productivity, and development.
 
 ### ✍️ AI Writer Suite
 
@@ -70,8 +70,8 @@ Craft AI offers a full suite of intelligent tools designed to streamline creativ
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/craft-ai.git
-cd craft-ai
+git clone https://github.com/yourusername/flux-tool.git
+cd flux-tool
 
 # Frontend
 cd frontend
@@ -103,7 +103,7 @@ npm run dev
 
 ## 🧪 API & SDK
 
-Craft AI provides a public API and SDK for developers who want to build their own tools, agents, or integrations.
+Flux Tool provides a public API and SDK for developers who want to build their own tools, agents, or integrations.
 
 - **Full API Docs:** Coming Soon  
 - **Supported Formats:** JSON, Markdown, HTML, PDF  
@@ -113,7 +113,7 @@ Craft AI provides a public API and SDK for developers who want to build their ow
 
 ## 📚 Documentation
 
-- **Whitepaper:** `docs.craftiest.io`  
+- **Whitepaper:** `docs.fluxtool.io`  
 - **Developer Docs:** `/docs/dev`  
 - **User Guide:** `/docs/user-guide`  
 - **Prompt Engineering Templates:** `/templates`
@@ -122,7 +122,7 @@ Craft AI provides a public API and SDK for developers who want to build their ow
 
 ## 🛡 Security & Compliance
 
-Craft AI is built with privacy and safety by design:
+Flux Tool is built with privacy and safety by design:
 
 - GDPR-Compliant  
 - Data Ownership & Transparency  
@@ -133,7 +133,7 @@ Craft AI is built with privacy and safety by design:
 
 ## 🌍 Community & Contributions
 
-We welcome contributors! Craft is building an open ecosystem of tools, templates, and AI agents.
+We welcome contributors! Flux is building an open ecosystem of tools, templates, and AI agents.
 
 ### How to Contribute
 
@@ -143,8 +143,7 @@ We welcome contributors! Craft is building an open ecosystem of tools, templates
 
 ### Get Involved
 
-- Join our **[Discord](https://discord.gg/craftiest)**  
-- Follow updates on **[X](https://x.com/craftiest)**  
+- Follow updates on **[X](https://x.com/fluxtool)**  
 - Contribute tools to the future **AI Marketplace**
 
 ---
@@ -158,12 +157,12 @@ See the [LICENSE](./LICENSE) file for full details.
 
 ## 👋 Acknowledgments
 
-Craft AI integrates and builds on top of multiple open-source libraries and APIs.  
+Flux Tool integrates and builds on top of multiple open-source libraries and APIs.  
 It is supported by a global community of developers, designers, researchers, and creators.
 
 ---
 
-## ✨ Ready to Craft the Future?
+## ✨ Ready to Flux Tool the Future?
 
-Start building, generating, and launching your own AI-powered workflows today with Craft AI.  
+Start building, generating, and launching your own AI-powered workflows today with Flux Tool.  
 Whether you are a solo creator or part of an enterprise team your next creative leap starts here.
